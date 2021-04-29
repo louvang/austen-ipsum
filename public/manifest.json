@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Austen Ipsum",
+  "name": "Austen Ipsum Generator",
   "icons": [
     {
       "src": "favicon.ico",
