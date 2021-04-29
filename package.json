@@ -1,5 +1,6 @@
 {
   "name": "austen-ipsum",
+  "homepage": "http://austenipsum.co",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

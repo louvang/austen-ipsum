@@ -1,4 +1,4 @@
-import Paragraphs from '../paragraphs.json';
+import Paragraphs from '../data/paragraphs.json';
 
 const generateParagraphs = (num, book) => {
   let finalText = [];

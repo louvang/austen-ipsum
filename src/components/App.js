@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './components/Header';
-import { IpsumGen } from './features/ipsumGen/IpsumGen';
-import Footer from './components/Footer';
+import Header from './Header';
+import { IpsumGen } from '../redux/ipsumGen/IpsumGen';
+import Footer from './Footer';
 
 function App() {
   return (
