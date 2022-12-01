@@ -1,8 +1,8 @@
-# [Austen Ipsum](https://austenipsum.co/)
+# Austen Ipsum
 
-Austen Ipsum generates placeholder text from all or one of Jane Austen's novels. Simply choose how many paragraphs you want to generate and which book to generate it from. Once you press the "Generate" button, the text will display in the box. Click on the "Copy" button to automatically copy the text to your clipboard. You can now paste your text anywhere. View the site at [AustenIpsum.co](https://austenipsum.co).
+Austen Ipsum generates placeholder text from all or one of Jane Austen's novels. Simply choose how many paragraphs you want to generate and which book to generate it from. Once you press the "Generate" button, the text will display in the box. Click on the "Copy" button to automatically copy the text to your clipboard. You can now paste your text anywhere. Preview coming soon..
 
-<p align="center"><a href="https://austenipsum.co/" target="_blank"><img src="https://austenipsum.co/preview.png" alt="Rock Paper Scissors Preview" width="750px" /></a></p>
+<p align="center"><img src="https://austenipsum.co/preview.png" alt="Austen Ipsum Preview" width="750px" /></p>
 
 ## About Code
 
